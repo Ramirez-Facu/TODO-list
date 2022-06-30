@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "L13r3FPbp31kiaJsHAFkn5+n9Adg+2gtpe6zsVb1S1u2PbqhBASHoSpD0RrtaWWQmTF2x9VKVCE9ZDgj8Q6jmw==",
+  "success": true,
+  "projectFilePath": "D:\\VScode\\TODO list\\Todo\\Todo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rfacu\\.nuget\\packages\\microsoft.data.sqlite\\6.0.0\\microsoft.data.sqlite.6.0.0.nupkg.sha512",
+    "C:\\Users\\rfacu\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\rfacu\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rfacu\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\rfacu\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rfacu\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rfacu\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
